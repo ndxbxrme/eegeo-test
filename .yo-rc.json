@@ -1,0 +1,18 @@
+{
+  "generator-angular-meteor": {
+    "filters": {
+      "coffee": true,
+      "jade": true,
+      "stylus": true,
+      "pagination": true,
+      "framework": "none",
+      "auth": false,
+      "appname": "eegeotest1App",
+      "projectname": "eegeotest1",
+      "modules": "'angular-meteor'\n  'ui.router'\n  'angularUtils.directives.dirPagination'",
+      "usedBower": false,
+      "bower": false
+    },
+    "appname": "eegeotest1"
+  }
+}

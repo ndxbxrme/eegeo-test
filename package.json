@@ -1,0 +1,11 @@
+{
+  "name": "eegeotest1",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "eegeo.js": "^0.1.353",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
